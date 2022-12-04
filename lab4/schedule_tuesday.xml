@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<schedule>
+    <couple>
+        <subject>Computer Science</subject>
+        <time>8:20-9:50</time>
+        <address>Lomonosova st. 9</address>
+        <teacher>Balakshin Pavel Valerievich</teacher>
+        <format>in person/ distance</format>
+    </couple>
+
+    <couple>
+        <subject>OPD</subject>
+        <time>10:00-11:30</time>
+        <address>Lomonosova st. 9</address>
+        <teacher>Klimenkov Sergey Viktorovich</teacher>
+        <format>in person</format>
+    </couple>
+
+    <couple>
+        <subject>Programming</subject>
+        <time>11:40-13:10</time>
+        <address>Lomonosova st. 9</address>
+        <teacher>Pismak Alexey Evgenievich</teacher>
+        <format>distance</format>
+    </couple>
+
+    <couple>
+        <subject>Lineal Algebra Lectures</subject>
+        <time>17:00-18:30</time>
+        <address>Kronversky pr. 49</address>
+        <teacher>Karpov Pavel Valerievich</teacher>
+        <format>in person</format>
+    </couple>
+
+    <couple>
+        <subject>Lineal Algebra Practice</subject>
+        <time>18:40-20:10</time>
+        <address>Kronversky pr. 49</address>
+        <teacher>Karpov Pavel Valerievich</teacher>
+        <format>in person</format>
+    </couple>
+</schedule>

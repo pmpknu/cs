@@ -1,0 +1,41 @@
+{
+  "schedule": {
+	"couple": [
+	  {
+		"subject": "Computer Science",
+		"time": "8:20-9:50",
+		"address": "Lomonosova st. 9",
+		"teacher": "Balakshin Pavel Valerievich",
+		"format": "in person/ distance"
+	  },
+	  {
+		"subject": "OPD",
+		"time": "10:00-11:30",
+		"address": "Lomonosova st. 9",
+		"teacher": "Klimenkov Sergey Viktorovich",
+		"format": "in person"
+	  },
+	  {
+		"subject": "Programming",
+		"time": "11:40-13:10",
+		"address": "Lomonosova st. 9",
+		"teacher": "Pismak Alexey Evgenievich",
+		"format": "distance"
+	  },
+	  {
+		"subject": "Lineal Algebra Lectures",
+		"time": "17:00-18:30",
+		"address": "Kronversky pr. 49",
+		"teacher": "Karpov Pavel Valerievich",
+		"format": "in person"
+	  },
+	  {
+		"subject": "Lineal Algebra Practice",
+		"time": "18:40-20:10",
+		"address": "Kronversky pr. 49",
+		"teacher": "Karpov Pavel Valerievich",
+		"format": "in person"
+	  }
+	]
+  }
+}
